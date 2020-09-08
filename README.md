@@ -1,10 +1,12 @@
 ### 👋 Hi there, I am Saurav from New York.
+This is my Github, where I present my neat codes, resources or fork notorious codes...
+
 - I finished my undergraduate degree ⚡ in Computer Science.<br>
   💬 - Freely ask me about my programming projects and web development.
-- I’m currently learning Swift 5 and 🌱Mongodb<br>
+- I’m currently learning Swift 5 and 🌱 Mongodb.<br>
   👯 - Let's collaborate on projects involving mobile app and web/ software solutions.<br>
 ## How to reach me<br>
-  - My contact details  <-  📫 
+  - My contact details  <-  📫 ( To the bottom-left of user pic )
 <!--
 
 **saurav-kc/saurav-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
